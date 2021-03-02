@@ -234,12 +234,12 @@ Edit the text to match who can attend the workshop. For instance:
 - This workshop is open to the public.
 - If you are interested in attending this workshop, contact me@example.com
   for more information
+{% endcomment %}
 
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
     This workshop is open to 2021 IBANGS Meeting participants who have registered separately for this training.
 </p>
-{% endcomment %}
 
 <hr/>
 
