@@ -271,7 +271,7 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 {% endcomment %}
 <h2 id="surveys">Surveys</h2>
 <p>Please be sure to complete these surveys before and after the workshop.</p>
-<p><a href="">Pre-workshop Survey</a></p>
+<p><a href="https://www.surveymonkey.com/r/J95QZGY">Pre-workshop Survey</a></p>
 <p><a href="">Post-workshop Survey</a></p>
 
 <hr/>
