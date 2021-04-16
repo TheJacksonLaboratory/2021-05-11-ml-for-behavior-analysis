@@ -276,7 +276,17 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 
 <hr/>
 
+<h2 id="reading">Reading</h2>
+<p>To get the most from this training, please read the following two Nature Methods articles before the workshop.</p>
+<p><a href="https://www.nature.com/articles/nmeth.4526">Machine learning: a primer</a></p>
+<p><a href="https://www.nature.com/articles/nmeth.3945">Classification evaluation</a></p>
+<p>You might also want to read these additional articles to deepen your knowledge either before or after the training.</p>
+<p><a href="https://www.nature.com/articles/nmeth.4299">Clustering</a></p>
+<p><a href="https://www.nature.com/articles/nmeth.4370">Classification and regression trees</a></p>
+<p><a href="https://www.nature.com/articles/nmeth.4438">Ensemble methods: bagging and random forests</a></p>
 
+
+<hr/>
 {% comment %}
 SCHEDULE
 
